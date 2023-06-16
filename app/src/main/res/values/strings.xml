@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_ListShot</string>
+    <string-array name="toDoList">
+        <item>Сделать домашнюю работу</item>
+        <item>Приготовить покушать</item>
+        <item>Убраться</item>
+        <item>Прогуляться</item>
+        <item>Сходить в гости</item>
+        <item>Смотреть кино</item>
+    </string-array>
+    <string name="btn_toDo">Выбрав планы, на вечер нажми на меня!</string>
+    <string name="text_toDo">Итак, сегодня в планах...</string>
+</resources>
